@@ -1,0 +1,1 @@
+Before the outage, the number of connected subnetworks is: 1

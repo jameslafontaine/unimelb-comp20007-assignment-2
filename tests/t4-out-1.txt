@@ -1,0 +1,2 @@
+After the outage, the largest diameter in any of the subnetworks is: 3
+The path is: 8 10 11 13

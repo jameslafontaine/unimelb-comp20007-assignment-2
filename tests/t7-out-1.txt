@@ -1,0 +1,1 @@
+The critical servers are: 0 4 10

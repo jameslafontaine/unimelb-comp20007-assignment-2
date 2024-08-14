@@ -1,0 +1,2 @@
+Before the outage, the number of servers in the largest subnetwork is: 5
+The servers in the largest subnetwork are: 0 1 2 3 4
